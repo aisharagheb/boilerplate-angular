@@ -9,7 +9,7 @@ Clone the angular-seed repository and install the dependencies.
 ### Clone angular-seed
 
 ```
-git clone REPO-URL-HERE
+git clone https://github.com/aisharagheb/boilerplate-angular
 cd angular-seed
 ```
 
