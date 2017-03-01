@@ -1,6 +1,6 @@
 # angular-seed
 
-Seed project for angular apps using angular 1.5.x, gulp and twitter bootstrap 3.
+base app using angular 1.5.x, gulp and twitter bootstrap 3.
 
 ## Getting Started
 
